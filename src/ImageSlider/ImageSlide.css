@@ -1,0 +1,17 @@
+.center .bottle-img{
+    position: absolute;
+    top: 25%;
+    left: 0;
+    transform: scale(1.6);
+}
+.swiper-pagination{
+    position: absolute;
+    right: 30px;
+    left: auto;
+    top: 100px;
+    width: auto;
+    bottom: auto;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+}
